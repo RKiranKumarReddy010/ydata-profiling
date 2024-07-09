@@ -266,5 +266,10 @@ A big thank you to all our amazing contributors!
 <a href="https://github.com/ydataai/ydata-profiling/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ydataai/ydata-profiling" />
 </a>
+<a href="https://github.com/RKiranKumarReddy010/ydata-profiling/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RKiranKumarReddy010/ydata-profiling" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 Contributors wall made with [contrib.rocks](https://contrib.rocks).
